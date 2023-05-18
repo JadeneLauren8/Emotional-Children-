@@ -1,20 +1,26 @@
 <!DOCTYPE html>
 <html>
-  <head>
-  <title> Dealing with Children Emotions
-</h1>
-<D>
-</p> <h2>
+  <head>  
+    <title> Managing Children's Emotions </title>
+  </head>
+  <body>
+    <h1>
+     Welcome to Managing Emotions from 5 to 16 years old 
+    </h1>  
+  <P>
+Helping educators and parents manage children emotions and being able to recogise what resources will help children from 5 years old til 16 years manage their emotions in a positve way.  
+</p> 
+<h2>
+About
 </h2>
-<title›My First Web Page!‹/title>
-This is the Main Heading
-This is some introduction text. We normally introduce our text.
-This is a Sub-Heading
-<D>
-</p>
-<25
-</h?>
-<D>
-</n> </bodv>
-
-
+<p>
+Resources  
+</p>  
+<h2>
+Welfare advisory Hub
+</h2> 
+<p>
+Contact Us 
+    </p>
+  </body>    
+  </html>

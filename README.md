@@ -1,8 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>  
-    <title> Managing Children's Emotions </title>
-  </head>
+    <meta charset="UTF_8" />
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0" /> 
+    <title>Manging emotions</title>
+    <link rel="stylesheet" href="styles.CSS"/>  
+   </head>
   <body>
     <h1>
      Welcome to Managing Emotions from 5 to 16 years old 

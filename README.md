@@ -6,8 +6,8 @@
     <title>Manging emotions</title>
     <link rel="stylesheet" href="styles.CSS"/>  
    </head>
-  <body>
-    <h1>
+  <body>   
+   <h1>
      Welcome to Managing Emotions from 5 to 16 years old 
     </h1>  
   <P>

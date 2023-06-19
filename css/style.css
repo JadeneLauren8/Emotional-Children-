@@ -45,3 +45,8 @@ p {
   background-color: #333;
   color: #fff;
 }
+
+.emotions-pic {
+  height: 525px;
+  width: 550px;
+}

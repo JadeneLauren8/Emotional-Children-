@@ -15,7 +15,6 @@
       <li><a href="/">Home</a></li>
       <li><a href="about.html">about</a></li>
       <li><a href="resources.html">resources</a></li>
-      <li><a href="welfare advisory hub">welfare advisory hub</a></li>
       <li><a href="contact.html">contact</a></li> 
     </ul>
 </nav>
